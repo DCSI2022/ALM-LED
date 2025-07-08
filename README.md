@@ -1,7 +1,7 @@
 # ALM-LED: Autonomous LiDAR Mapping in Underground Space with Luojia Explorer Anti-collision Drone
 ## Luojia Explorer Anti-collision Drone System
 ![image](https://github.com/user-attachments/assets/e372784e-57c5-418e-91f2-0dc9b83d95ce)
-![Uploading 飞机飞场及组成.jpg…]()
+![飞机飞场及组成](https://github.com/user-attachments/assets/5851feae-38a2-40bb-a276-241765c69020)
 
 
 ## 📜 Project Status
