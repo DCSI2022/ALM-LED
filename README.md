@@ -16,4 +16,12 @@ This paper is currently under review.​​ Software implementations and codes a
 ​2.A novel, low-cost, and robust anti-collision drone system 
 ![飞机飞场及组成](https://github.com/user-attachments/assets/cdb9575d-062d-444e-8556-ba970d1d770f)
 
-​
+​## ⚙ Hardware & Sensors
+
+To be updated
+
+​## ✔ Implementation process
+
+To be updated
+
+​## 💻 Experimental process
