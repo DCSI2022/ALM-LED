@@ -32,7 +32,7 @@ To be updated.
 To be updated.
 
 ## ​💻 Experiments
-We conducted a comprehensive set of experiments in both simulated and real-world settings to evaluate the performance of our proposed system and framework. The system demonstrated an average mapping efficiency of 109.51 m³/s in two simulations and 53.85 m³/s across four real-world scenarios. The resulting map accuracies were high, achieving centimeter-level precision in three cases (0.034 m [0.72‰], 0.088 m [0.37‰], 0.053 m [2.04‰]) and decimeter-level precision in another (0.31 m [0.73‰] in a 400m-long tunnel). These results confirm that the ALM-LED system enables highly efficient and accurate autonomous mapping within underground spaces.
+We conducted a comprehensive set of experiments in both simulated and real-world settings to evaluate the performance of our proposed method. ALM-LED demonstrated an average mapping efficiency of 109.51 m³/s in two simulations and 53.85 m³/s across four real-world scenarios. The resulting map accuracies were high, achieving centimeter-level precision in three cases (0.034 m [0.72‰], 0.088 m [0.37‰], 0.053 m [2.04‰]) and decimeter-level precision in another (0.31 m [0.73‰] in a 400m-long tunnel). These results confirm that the ALM-LED enables highly efficient and accurate autonomous mapping within underground spaces.
 
 The drone is flying through the Luojia Mountain tunnel and building a point cloud map of the tunnel.
 
