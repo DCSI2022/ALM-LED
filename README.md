@@ -1,6 +1,6 @@
 # ALM-LED: Autonomous LiDAR Mapping in Underground Space with Luojia Explorer Anti-collision Drone
-## Luojia Explorer Anti-collision Drone System
-![image](https://github.com/user-attachments/assets/e372784e-57c5-418e-91f2-0dc9b83d95ce){:height="50%" width="50%"}
+## 🤖 Luojia Explorer Anti-collision Drone System
+![image](https://github.com/user-attachments/assets/e372784e-57c5-418e-91f2-0dc9b83d95ce)
 
 ## 📜 Project Status
 
@@ -25,3 +25,7 @@ To be updated
 To be updated
 
 ## ​💻 Experiments
+ The drone is flying through the Luojia Mountain tunnel.
+![珞珈山隧道飞行-压缩](https://github.com/user-attachments/assets/484e2921-1a32-493a-ae86-14ea07f69a61)
+Luojia Mountain Tunnel Map Results.
+![珞珈山隧道地图漫游](https://github.com/user-attachments/assets/7a5546da-35a6-476e-a500-64773876ab5a)
