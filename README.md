@@ -39,7 +39,9 @@ The drone is flying through the Luojia Mountain tunnel and building a point clou
 ![珞珈山隧道飞行-压缩](https://github.com/user-attachments/assets/484e2921-1a32-493a-ae86-14ea07f69a61) ![珞珈山隧道地图漫游](https://github.com/user-attachments/assets/7a5546da-35a6-476e-a500-64773876ab5a)
 
 ## ​🏠 Indoor tests
+We tested the drone's obstacle avoidance capabilities indoors using our planning and control method; without manual operation, the drone could stably avoid the obstacle and pass through the gate.
 
+![穿越龙门压缩2-10M以下](https://github.com/user-attachments/assets/c33be9d3-74d9-4c5f-9493-fce20380faf2) ![8月26日 -越过障碍-压缩](https://github.com/user-attachments/assets/0b84f553-253e-4939-ae87-cb05f2d8216e)
 
 
  The remaining experimental results and videos will be updated upon paper acceptance.
