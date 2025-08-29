@@ -44,4 +44,4 @@ We tested the drone's obstacle avoidance capabilities indoors using our planning
 ![穿越龙门压缩2-10M以下](https://github.com/user-attachments/assets/c33be9d3-74d9-4c5f-9493-fce20380faf2) ![8月26日 -越过障碍-压缩](https://github.com/user-attachments/assets/0b84f553-253e-4939-ae87-cb05f2d8216e)
 
 
- The remaining experimental results and videos will be updated upon paper acceptance.
+ The remaining experimental data and videos will be updated upon paper acceptance.
